@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/two_tier_security_steaganography/EmailIdFetcher.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/two_tier_security_steaganography/LoginFrame.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/two_tier_security_steaganography/EditProfileFrame.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/two_tier_security_steaganography/EmailSendingFrame.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/ImageSteganography/Decryption.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/ImageSteganography/Encryption.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/two_tier_security_steaganography/Two_tier_security_steaganography.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/two_tier_security_steaganography/RegistrationFrame.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/two_tier_security_steaganography/OperationFrame.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/two_tier_security_steaganography/SendMail.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/Audio_Steganography/Decode_Audio.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/Audio_Steganography/Encode_Audio.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/videosteganography/VideoDecodeFrame.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Two_tier_security_steaganography/src/videosteganography/VideoStegnoFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
